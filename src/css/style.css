@@ -163,6 +163,7 @@ textarea {
   font-family: inherit;
   font-size: 100%;
   margin: 0;
+  text-align: center;
 }
 button,
 input {
